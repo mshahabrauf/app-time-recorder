@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.1.1_b7a547e6e0d6633447f210f0b9e89dd894441146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/picasso-2.5.2_4f5803165c37fa26712761d9d692340911472575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_15bc5de463887eefe26cc691d8eb146fd0f53717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/Android_SDK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_368335eebdb276dbd4ae4a1aa19bc4a0a424c518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_d53fbce2d3de466bf21050452a275150b0afdf27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_93d3b55cafcb9ee96387fce1218a635c92d1d2ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_6b11f84248770aaf68dfecaa543c51c8daf8c394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_c304e834728b362291b6b8c2a28e62e2fe5ad4d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/okio-1.11.0_63f59b86a54c6361acfdfd7858f29d65e9741bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_4d30493cf91e5fa11afcf5242944969c8db8ab8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/retrofit-2.2.0_e3963ec55eabe091bdfd1092c50e3cea9a9dacb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_acf19c8fb9411e0e8e3d4be6e9db7198f3669b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_6e451d34eda499d40f0c735d85338954a49ccd9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_0d657b9d96f154255f16a809be500c285268b1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.wang.avi/library/2.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.wang.avi-library-2.1.3_665354b8bd2340c25bc13851342901255bcecdd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_9e8efb5f96481c79b5e8a8dc0d9eab7c5250c10f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_8de6c37ed075cc17d5788872bef9d14140e5bd3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_236e5e35c4ed8efaef90a9097ddc56d2f74efadd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_8f9d9a352445ceec51c4f78f7de63454cd3a3111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/gson-2.7_cc83c358c9cbe99b860131b4884f3bb9e635c920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_96bede68a099b82764693291fb8262e0b3cb89e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_518f1b780e2a1a16fd95e763568f74d049958247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d14e405ed478063c630fc1ae4e6744e64ad3e129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_5ab1aadf6c351f124b623f162803b16de76288b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_f07a533796e4970335070924c81a3b54318e442f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attribes/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/home/attribes/Documents/android_projects/android-AppUsageStatistics-master/Application/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_2c5e40150af18ae9153761b3c3d30b8600891934.jar" />
+    </item>
+
+</items>
